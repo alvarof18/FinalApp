@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "979602719874",
+    "project_id": "finalapp-eb675",
+    "storage_bucket": "finalapp-eb675.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979602719874:android:c640e4740a44955b18609b",
+        "android_client_info": {
+          "package_name": "com.alvaro.finalApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979602719874-l6tif21ff50i0561q67e4b9ppn5rit2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxhrMQuIg8y5gI116cCTyert0tzj95enU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979602719874-l6tif21ff50i0561q67e4b9ppn5rit2o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
